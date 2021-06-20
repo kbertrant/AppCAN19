@@ -1,0 +1,9 @@
+#login-page .form-check-input {
+    margin-left: 0;
+    position: relative;
+    top: 3px;
+    margin-right: 5px;
+}
+#login-page .forgot-password {
+    margin-bottom: 10px;
+}
